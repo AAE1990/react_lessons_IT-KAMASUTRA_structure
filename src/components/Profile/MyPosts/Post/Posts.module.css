@@ -1,0 +1,11 @@
+.item {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: Trebuchet MS;
+}
+
+.item img {
+    width: 54px;
+    height: 54px;
+    border-radius: 30px;
+}

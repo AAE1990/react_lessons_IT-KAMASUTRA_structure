@@ -1,0 +1,29 @@
+.dialogs {
+    display: grid;
+    border: solid black 1px;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems {
+    width: 400px;
+    height: auto;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.dialogsItems .active {
+    color: gold;
+}
+
+.messages {
+    float: left;
+    margin-top: -125px;
+    margin-left: 200px;
+}
+
+.formAddText {
+    width: auto;
+    height: auto;
+    margin-top: -125px;
+    margin-left: 350px;
+}

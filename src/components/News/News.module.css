@@ -1,0 +1,11 @@
+.column {
+    width: 600px;
+    height: 400px;
+    background: rgb(253, 244, 225);
+    margin-top: -16px;
+}
+
+.column p {
+    padding-top: 20px;
+    padding-left: 20px;
+}

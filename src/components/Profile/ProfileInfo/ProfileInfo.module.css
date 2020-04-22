@@ -1,0 +1,22 @@
+.descriptionBlock {
+    padding: 20px;    
+}
+
+
+.contact {
+    padding-left: 10px;
+}
+
+.mainPhoto {
+    max-width: 200px;
+    margin-bottom: 20px;
+    border: black solid 1px;
+}
+
+.inputAvatar {
+    margin-bottom: 20px;
+    margin-left: -200px;
+}
+/* .User_userPhoto {
+    background: url('https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&h=350');
+} */

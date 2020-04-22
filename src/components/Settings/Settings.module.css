@@ -1,0 +1,11 @@
+.params {
+    margin-top: -16px;
+    width: 600px;
+    height: 600px;
+    background: rgb(253, 244, 225);
+}
+
+.params p {
+    padding-top: 20px;
+    padding-left: 20px;
+}

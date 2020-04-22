@@ -1,0 +1,11 @@
+.playlist {
+    background: rgb(253, 244, 225);
+    width: 600px;
+    height: 400px;
+    margin-top: -16px;
+}
+
+.playlist p {
+    padding-top: 20px;
+    padding-left: 20px;
+}
